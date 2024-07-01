@@ -27,8 +27,12 @@ The penalty box distorts so many debates in football because it's a disproportio
 
 
 ### Some Humble Proposals:
-1. **Replace the Penalty Box with the Arc of Justice**: Here is a chart of expected goal value of different shots: ![xg of shots in the box](../images/Screenshot%20Unhighlighted%20xG%20by%20Position.png). If we draw an arc around 
-the majority of areas where a shot is converted to a goal at least 10% of the time, we have a more fair designation of where fouls deserve to be penalized with a free shot on goal, while cutting out almost half of the box from that area. ![Penalty Arc Drawn](../images/Screenshot%20Unhighlighted%20xG%20by%20Position%20With%20Arc.png) Fouls and handballs outside of that area would instead be given as either indirect FKs or could be moved out to be a FK on the nearest spot outside the box from where the foul occurred. This is not actually a new idea! Here's a rendering from the Philadelphia Inquirer in 1912 ![Penalty Arc](https://cdn.theathletic.com/app/uploads/2022/03/03122906/Abolish-the-PK-diagram-e1646336904493.png). That arc is a little more restrictive than what I've drawn, but I think it honestly would be justified by the shots data! Even central shots from the top of the box don't always have a good conversion percentage.
+1. **Replace the Penalty Box with the Arc of Justice**: Here is a chart of expected goal value of different shots: ![xg of shots in the box](../images/Screenshot%20Unhighlighted%20xG%20by%20Position.png)
+If we draw an arc around the majority of areas where a shot is converted to a goal at least 10% of the time, we have a more fair designation of where fouls deserve to be penalized with a free shot on goal, while cutting out almost half of the box from that area.
+![Penalty Arc Drawn](../images/Screenshot%20Unhighlighted%20xG%20by%20Position%20With%20Arc.png)
+Fouls and handballs outside of that area would instead be given as either indirect FKs or could be moved out to be a FK on the nearest spot outside the box from where the foul occurred. This is not actually a new idea! Here's a rendering from the Philadelphia Inquirer in 1912:
+![Penalty Arc](https://cdn.theathletic.com/app/uploads/2022/03/03122906/Abolish-the-PK-diagram-e1646336904493.png)
+That arc is a little more restrictive than what I've drawn, but I think it honestly would be justified by the shots data! Even central shots from the top of the box don't always have a good conversion percentage.
 
 2. **Allow Referees Discretion to Give FKs instead of Penalties for Certain "Soft Fouls"**: The arc doesn't solve all problems, what about this handball from the [World Cup Final in 2018](https://youtube.com/clip/Ugkx4SFXBGRDiaH4nIdFSNwyYkUBXwVvg6Qd?si=XGhEYyjhq8XAVhCN). This would likely be inside that arc area, it's a more dangerous position, but clearly the defender doesn't know anything about it, it's completely accidental. It felt very unfair that it was given as a penalty. So for these kinds of situations the ref should be given discretion to give advantageous Free Kicks to the attacking team, without going all the way to giving a penalty. Say a "close corner" from the corner of the box instead of the corner of the field? Similarly there's Manchester United ["miracle" peanlty to equalize](https://www.youtube.com/watch?v=uUSmb8rWJ3Q&ab_channel=CvetanSavov) against PSG in the Champions League. That shot is a bit of a prayer. It has very little chance of going in, the defender isn't intentionally trying to stop it with their hand, but after a VAR check, it's given as a pen and it decided the game for Man United. Now should Man United be punished by not having that called? That's what could have happened if it was outside the box. It wouldn't have been reviewed by VAR. But instead, with this new rule, they could get another chance at a comparable level of threat, say a free kick from where the original shot was struck. That's definitely more dangerous than the original shot, there's little incentive to give attackers multiple free bites at the apple. But it's proportional to the offence that had been committed. It is more consistent with a fan's view of fairness.
 
@@ -66,6 +70,6 @@ Previous Ideas on this Subject:
 [Abolish the penalty kick!](https://www.ussoccerhistory.org/abolish-the-penalty-kick/)
 
 Stay Tuned for Fixing Football Part II
-# Punish Fouls so that They Don't Happen!
+**Punish Fouls so that They Don't Happen!**
 
 
